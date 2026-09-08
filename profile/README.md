@@ -1,4 +1,5 @@
-![Orbit](https://shieldcn.dev/header/grid.svg?title=Orbit&subtitle=Create+projects%2C+track+issues+through+a+workflow%2C+and+see+progress+on+a+dashboard&logo=ri%3AFaProjectDiagram&size=wide&mode=dark&align=left&image=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1614850523459-c2f4c699c52e%3Fw%3D1600%26q%3D70%26fit%3Dcrop%26fm%3Djpg&overlay=1)
+<img width="1672" height="941" alt="orbit" src="https://github.com/user-attachments/assets/d4279079-9fcc-4d9d-b120-4eef6881341a" />
+
 # Orbit
 
 **Modern, open-source project management platform built for developers, teams, and organizations.**
